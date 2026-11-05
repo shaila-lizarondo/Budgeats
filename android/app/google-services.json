@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "795483562128",
+    "project_id": "budgeats-f55b0",
+    "storage_bucket": "budgeats-f55b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795483562128:android:40629696e720216a49f815",
+        "android_client_info": {
+          "package_name": "com.example.student_budget_meal_plan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795483562128-irknj9u15vgik3brrh49ln0q6r0eokjj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.student_budget_meal_plan",
+            "certificate_hash": "16d1024fc20b9308354b7f7e719c10ca11b672bd"
+          }
+        },
+        {
+          "client_id": "795483562128-ev9bbqjt1gjo3g9gtsml8s7109alio3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm9AN1F9-FVn4F5e07QmyShH0Q7ksnEwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795483562128-ev9bbqjt1gjo3g9gtsml8s7109alio3c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795483562128-n0hl31q5dpf380o8q0jbe371n34m84cs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.studentBudgetMealPlan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
